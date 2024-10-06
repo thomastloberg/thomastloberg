@@ -1,5 +1,5 @@
 # Gitlab
-I'm more active on my Gitlab profile. (Take a look!)[https://gitlab.com/thomastloberg]
+I'm more active on my Gitlab profile. [Take a look!](https://gitlab.com/thomastloberg)
 
 # 💫 About Me:
 🔭 I’m currently working on 3 cool projects! TBA<br>
